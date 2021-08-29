@@ -1,0 +1,6 @@
+C:\TRAINING\TimeMachineAssignment\DBLibrary\bin\Debug\DBLibrary.dll
+C:\TRAINING\TimeMachineAssignment\DBLibrary\bin\Debug\DBLibrary.pdb
+C:\TRAINING\TimeMachineAssignment\DBLibrary\obj\Debug\DBLibrary.csproj.AssemblyReference.cache
+C:\TRAINING\TimeMachineAssignment\DBLibrary\obj\Debug\DBLibrary.csproj.CoreCompileInputs.cache
+C:\TRAINING\TimeMachineAssignment\DBLibrary\obj\Debug\DBLibrary.dll
+C:\TRAINING\TimeMachineAssignment\DBLibrary\obj\Debug\DBLibrary.pdb
